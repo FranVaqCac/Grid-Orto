@@ -11,3 +11,7 @@ Instalación: Se puede invocar desde el repositiro de QGIS o se puede descargar 
 ########################################################
 
 Caso de uso: -Ortofotos en la carpeta de Data_examples
+
+
+Contacto:
+Fran Vaquero Cáceres: FranVaquero@usal.es
