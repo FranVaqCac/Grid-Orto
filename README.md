@@ -12,6 +12,7 @@ También es esta la carpeta donde se copián los complementos descargados a trav
 ########################################################
 
 Caso de uso: -Ortofotos en la carpeta de Data_examples
+              -Video con pasos a seguir: https://www.loom.com/share/e2f8fa809a8b48f994fc917ae9000351
 
 
 Contacto:
