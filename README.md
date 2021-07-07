@@ -7,3 +7,7 @@ Finalmente, el resultado de este trabajo es obtener una capa de errores tanto ge
 ########################################################
 
 Instalación: Se puede invocar desde el repositiro de QGIS o se puede descargar de este portal copíandolo en la carpeta de plugin de QGIS. Para saber cual es la carpeta que contiene los complementos, se puede consultar desde QGIS a través del menú "Configuración" / "Perfiles de usuario" / "Abrir la carpeta del perfil activo". Dentro de esta carpeta hay un directorio "plugins" que es donde se encuentran los complementos que se cargan al iniciar QGIS. También es esta la carpeta donde se copián los complementos descargados a través del gestor de complementos, invocado desde el menú "Complementos" / "Administrar e instalar complementos".
+
+########################################################
+
+Caso de uso: -Ortofotos en la carpeta de Data_examples
